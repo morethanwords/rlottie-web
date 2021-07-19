@@ -1,3 +1,5 @@
+It is a fork of https://github.com/rlottie/rlottie.github.io
+
 #build instruction to generate rlottie.js from rlottie library.
    1. Make following changes in lottie/src/vector/config.h
     // disable threading  (wasm dosen't support threading yet)
